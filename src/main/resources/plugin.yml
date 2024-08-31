@@ -1,0 +1,4 @@
+name: ConverteConcretePowderToConcrete
+version: '${project.version}'
+main: com.ponchannn.converteconcretepowdertoconcrete.ConverteConcretePowderToConcrete
+api-version: '1.21'
